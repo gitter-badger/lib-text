@@ -1,5 +1,7 @@
 # lib-text
 
+[![Join the chat at https://gitter.im/peoplepattern/lib-text](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/peoplepattern/lib-text?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 A little text processing library for Scala.
 
 [![Build Status](https://travis-ci.org/peoplepattern/lib-text.svg?branch=master)](https://travis-ci.org/peoplepattern/lib-text)
